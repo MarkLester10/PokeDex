@@ -91,9 +91,6 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  .logo {
-    width: 90%;
-  }
   .logo .img-container img {
     width: 230px;
   }
